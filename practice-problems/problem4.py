@@ -49,6 +49,8 @@ Output: [1, 4]
 # Solution
 
 '''
+from typing import List
+
 def firstLast(nums: List[int]) -> List[int]:
     if not nums:
         return []
