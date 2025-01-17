@@ -45,7 +45,6 @@ Output: False
 
 
 
-
 # Solution
 
 '''
