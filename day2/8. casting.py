@@ -1,4 +1,4 @@
-# to integers:
+# to integers:   
 a = int(4)	
 print(a)	
 
@@ -9,7 +9,7 @@ c = int("8")
 print(c)		
 	
 
-# to floats:
+# to floats:           
 d = float(6)	
 print(d)	
 
@@ -23,7 +23,7 @@ g = float("8")
 print(g)	
 
 
-# to strings:
+# to strings:  
 h = str(4)	
 print(h)	
 
