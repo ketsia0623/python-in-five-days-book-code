@@ -10,6 +10,7 @@ print("Hello, World!")
 This is a multi-line comment using triple quotes.
 Often used for docstrings, 
 which describes the functionality of a piece of code  
+doesn't get printed
 """ 
 print("Hello, World!")
 
