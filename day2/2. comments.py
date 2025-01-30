@@ -24,4 +24,6 @@ def add(a, b):
     Returns: int or float: The sum of a and b. 
     """   
     return a + b 
+
+print(add(4,8))
 print(add.__doc__)
